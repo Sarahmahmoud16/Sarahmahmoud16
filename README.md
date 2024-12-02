@@ -1,5 +1,4 @@
 Hi there! I'm Sara🌟, a dedicated Full-Stack .NET Developer with a passion for creating robust, user-friendly applications that solve real-world problems.
-
 🚀 What I Do
 Web Development: Building dynamic and responsive web applications using the .NET framework.
 AI Integration: Incorporating AI and machine learning features into applications to enhance functionality and user experience.
