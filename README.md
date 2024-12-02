@@ -11,5 +11,3 @@ Other Tools: Visual Studio, Git
 🎯 Goals
 To advance my expertise in .NET technologies and contribute to impactful projects.
 To leverage AI to enhance software capabilities.
-🌟 Fun Fact
-When I’m not coding, I enjoy exploring new tech trends and contributing to creative projects like ArtVision, which blends AI and creativity!
